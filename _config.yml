@@ -2,7 +2,7 @@ name: The SILShack class blog - Fall 2013
 pygments: true
 markdown: redcarpet
 
-baseurl: testingSilshack
+baseurl: /testingSilshack
 url: 
 
 course:
